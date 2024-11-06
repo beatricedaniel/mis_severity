@@ -54,6 +54,8 @@ hospital-evaluation-report/
 │   └── report_generation.py     # Generates final summary report
 │
 └── output/               # Directory where output files are saved
+│
+└── data/                 # Directory where original documents are saved
 ```
 
 ## Installation
