@@ -1,0 +1,17 @@
+{
+    "data_file_path": "input/hospital_report.docx",
+    "output_extracted_text_path": "output/extracted_text.txt",
+    "output_preprocessed_text_path": "output/preprocessed_text.txt",
+    "output_classified_report_path": "output/classified_report.csv",
+    "output_summary_report_path": "output/summary_report.csv",
+    "topics": [
+        "erreurs de médication",
+        "erreurs chirurgicales",
+        "infections",
+        "complications",
+        "soins intensifs",
+        "autres observations"
+    ],
+    "file_type": "docx",
+    "language_model": "fr_core_news_sm"
+}

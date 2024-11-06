@@ -1,0 +1,22 @@
+# Core Libraries
+pandas==1.5.3
+numpy==1.23.5
+
+# NLP Libraries
+spacy==3.4.4
+fr-core-news-sm==3.4.4     # Small French language model for spaCy
+
+# Text and Classification Libraries
+scikit-learn==1.1.3
+nltk==3.7
+
+# Document Processing Libraries
+python-docx==0.8.11
+openpyxl==3.0.10
+
+# Reporting and Visualization (optional)
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Utility Libraries
+tqdm==4.64.1
